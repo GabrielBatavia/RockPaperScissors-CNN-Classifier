@@ -1,6 +1,9 @@
 # Rock-Paper-Scissors-Image-Classification
 This Rock Paper Scissor Detector
 
+![image](https://github.com/user-attachments/assets/7331c29a-f722-448f-9563-e1fb0744ec44)
+
+
 ## Notebook 
 https://colab.research.google.com/drive/1tUXYwDSpNvQwfbJZ4ZAFSmL2oPG0242d?usp=sharing
 
@@ -28,6 +31,7 @@ history = model.fit(
     callbacks=[early_stopping],
     verbose=2
 )
+```
 
 ## Result
 
